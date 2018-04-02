@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When you initialise a repository it becomes tracked by the version control for the changes made and it becomes possible for you to use git features to manipulate these files.
+
