@@ -10,3 +10,10 @@ Describe the differences between forks, clones, and branches. When would you use
 
 forks help when you want to start editing a project that you are not allowed to contribute towards directly on gitHub while clones download the repository on your local machine to help you commit changes locally and branches are just chains of commits in their respective hierrachies.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+This gives you the advantage of keeping in sync with the online repositories and hence reducing merging conflicts.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+you could meet under common space and argue out ideas until you reach common ground. Fewer energy would be dispended mending mistakes but a lot of ideas would be trashed before being tested.
