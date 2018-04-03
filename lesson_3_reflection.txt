@@ -17,3 +17,7 @@ This gives you the advantage of keeping in sync with the online repositories and
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 you could meet under common space and argue out ideas until you reach common ground. Fewer energy would be dispended mending mistakes but a lot of ideas would be trashed before being tested.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+This gives you chance to test different approaches to a solution while leaving the central idea intact.
